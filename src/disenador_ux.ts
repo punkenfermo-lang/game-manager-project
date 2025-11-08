@@ -1,4 +1,5 @@
 // src/disenador_ux.ts
+
 export function crearInterfaz(usuario: string): string {
     // Lógica para crear una interfaz amigable
     return `Interfaz creada para: ${usuario}`;

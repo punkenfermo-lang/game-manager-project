@@ -1,4 +1,5 @@
 // src/desarrollador_tecnico.ts
+
 export function optimizarCodigo(codigo: string): string {
     // Lógica para optimizar el código
     return `Código optimizado: ${codigo}`;
